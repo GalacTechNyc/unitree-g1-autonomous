@@ -32,6 +32,8 @@ def install_dependencies():
     """
     Install all required dependencies
     """
+    os.environ["CYCLONEDDS_HOME"] = "/Users/stephonbridges/G1SA/cyclonedds/install"
+    os.environ["CPATH"] = "/Users/stephonbridges/G1SA/cyclonedds/src/core/include"
     print("=== Unitree G1 Autonomous Mode - Dependency Installation ===")
     
     # Check Python version
