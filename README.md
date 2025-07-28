@@ -47,7 +47,7 @@ A fully autonomous navigation system for the Unitree G1 humanoid robot powered b
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/unitree-g1-autonomous.git
+   git clone https://github.com/GalacTechNyc/unitree-g1-autonomous.git
    cd unitree-g1-autonomous
    ```
 
@@ -335,9 +335,9 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📞 Support
 
-- 📋 [Issues](https://github.com/yourusername/unitree-g1-autonomous/issues)
-- 💬 [Discussions](https://github.com/yourusername/unitree-g1-autonomous/discussions)
-- 📧 [Email](mailto:your.email@example.com)
+- 📋 [Issues](https://github.com/GalacTechNyc/unitree-g1-autonomous/issues)
+- 💬 [Discussions](https://github.com/GalacTechNyc/unitree-g1-autonomous/discussions)
+- 🌐 [Repository](https://github.com/GalacTechNyc/unitree-g1-autonomous)
 
 ---
 
