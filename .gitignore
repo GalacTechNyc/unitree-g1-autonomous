@@ -1,0 +1,112 @@
+# Unitree G1 Autonomous Robot - .gitignore
+
+# Environment Variables and Secrets
+.env
+.env.local
+.env.*.local
+api_keys.txt
+secrets.txt
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.claude/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and Runtime Files
+*.log
+*.out
+*.pid
+*.gz
+*.tar
+autonomous_robot_*.log
+test_output.log
+
+# Robot-Specific Files
+robot_logs/
+camera_captures/
+test_capture.jpg
+calibration_data/
+sensor_logs/
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Documentation Build
+docs/_build/
+site/
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# AI/ML Model Files (if any)
+*.h5
+*.pkl
+*.joblib
+models/
+checkpoints/
+
+# Hardware-Specific
+device_configs/
+*.device
+hardware_logs/

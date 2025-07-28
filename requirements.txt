@@ -1,0 +1,6 @@
+unitree_sdk2py
+google-generativeai
+opencv-python
+numpy
+Pillow
+cyclonedds==0.10.2
